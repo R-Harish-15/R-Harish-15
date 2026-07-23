@@ -3,13 +3,13 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=220&section=header&text=Hi%20There,%20I'm%20Harish%20R%20%F0%9F%91%8B&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Cybersecurity%20Engineer%20|%20Pentester%20|%20Digital%20Forensics&descAlignY=55&descSize=18" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2C9AFF&center=true&vCenter=true&width=650&lines=Cybersecurity+%26+Network+Security+Enthusiast;Penetration+Testing+%7C+Vulnerability+Assessment;Digital+Forensics+%7C+Secure+Systems;Building+Nexcryptix-RT+%26+Cyber-Net-Secx;Always+Learning%2C+Always+Securing+%F0%9F%94%90" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=2C9AFF&center=true&vCenter=true&width=900&lines=Cybersecurity+%26+Network+Security+Enthusiast;Penetration+Testing+%7C+Vulnerability+Assessment;Digital+Forensics+%7C+Secure+Systems;Built+Torrenter-X+%7C+Nexcryptix-RT+%7C+Cyber-Net-Secx;Always+Learning%2C+Always+Securing+%F0%9F%94%90" alt="Typing SVG" />
 </a>
 
 </div>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=R-Harish15&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=R-Harish-15&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views"/>
   <img src="https://img.shields.io/badge/CGPA-9.133-brightgreen?style=flat-square" />
   <img src="https://img.shields.io/badge/Status-Open%20to%20Work-success?style=flat-square" />
 </p>
@@ -129,16 +129,16 @@ CNN + MobileNetV2 Image Classifier
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=R-Harish15&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=R-Harish15&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats-pi-six-15.vercel.app/api?username=R-Harish-15&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="165" src="https://github-readme-stats-pi-six-15.vercel.app/api/top-langs/?username=R-Harish-15&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=R-Harish15&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=R-Harish-15&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=R-Harish15&theme=tokyo-night&hide_border=true" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=R-Harish-15&theme=tokyo-night&hide_border=true" width="100%"/>
 </p>
 
 ---
@@ -147,7 +147,7 @@ CNN + MobileNetV2 Image Classifier
 
 <p align="center">
   <a href="mailto:harishr15042004@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://github.com/R-Harish15"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://github.com/R-Harish-15"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
 <div align="center">
