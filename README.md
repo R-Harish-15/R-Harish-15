@@ -33,10 +33,10 @@ languages_spoken: ["English", "Tamil (Native)"]
 fun_fact: "Top 20% global rank on TryHackMe 🏆"
 ```
 
-- 🔐 Currently exploring **Zero Trust security models** and real-time threat monitoring
-- 🧪 Building **Nexcryptix-RT**, a host-based USB security & forensic monitoring framework
+- 🔐 Currently exploring **Personal System's Security** and real-time threat monitoring
+- 🧪 Previously, Built **Torrenter-X**, a torrent file downloader **|** **Nexcryptix-RT**, a host-based USB security & forensic monitoring framework
 - 📝 Published research on network vulnerability assessment & exploit intelligence
-- 🏁 CTF & Hackathon participant | TryHackMe top 20% globally
+- 🏁 CTF participant | TryHackMe top 20% globally
 - 📫 Reach me at **harishr15042004@gmail.com**
 
 ---
@@ -104,15 +104,7 @@ Python-Based BitTorrent Download Manager
 - Packaged as standalone Windows executable
 
 </td>
-<td width="50%" valign="top">
 
-**♻️ Smart Waste Segregation (AI)**
-CNN + MobileNetV2 Image Classifier
-- Real-time waste classification
-- Team Lead role
-- Enhances smart waste management efficiency
-
-</td>
 </tr>
 </table>
 
