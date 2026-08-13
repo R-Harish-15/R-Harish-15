@@ -140,6 +140,8 @@ Python-Based BitTorrent Download Manager
 <p align="center">
   <a href="mailto:harishr15042004@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://github.com/R-Harish-15"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/r-harish15/"><img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](#)"/></a>
+ 
 </p>
 
 <div align="center">
