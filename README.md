@@ -11,15 +11,15 @@
 
 <br><br>
 
-<img src="https://img.shields.io/badge/STATUS-OPEN%20TO%20WORK-00E5FF?style=for-the-badge&labelColor=050A0F" />
-<img src="https://img.shields.io/badge/FOCUS-CYBERSECURITY-00FF88?style=for-the-badge&labelColor=050A0F" />
-<img src="https://img.shields.io/badge/ROLE-SECURITY%20ENGINEER-9B59FF?style=for-the-badge&labelColor=050A0F" />
+<img src="https://img.shields.io/badge/STATUS-OPEN%20TO%20WORK-dafffe?style=for-the-badge&labelColor=050A0F" />
+<img src="https://img.shields.io/badge/FOCUS-CYBERSECURITY-86d7ff?style=for-the-badge&labelColor=050A0F" />
+<img src="https://img.shields.io/badge/ROLE-CYBERSECURITY%20ENGINEER-9B59FF?style=for-the-badge&labelColor=050A0F" />
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=R-Harish-15&label=PROFILE%20VIEWS&color=00E5FF&style=for-the-badge" />
-<img src="https://img.shields.io/badge/CGPA-9.133-00FF88?style=for-the-badge&labelColor=050A0F" />
-<img src="https://img.shields.io/badge/TRYHACKME-TOP%2020%25-FF3366?style=for-the-badge&labelColor=050A0F" />
+<img src="https://komarev.com/ghpvc/?username=R-Harish-15&label=PROFILE%20VIEWS&color=253501&style=for-the-badge" />
+<img src="https://img.shields.io/badge/CGPA-9.133-86d7ff?style=for-the-badge&labelColor=050A0F" />
+<img src="https://img.shields.io/badge/TRYHACKME-TOP%2020%25-c7febc?style=for-the-badge&labelColor=050A0F" />
 
 </div>
 
