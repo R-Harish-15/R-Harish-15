@@ -1,151 +1,360 @@
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=220&section=header&text=Hi%20There,%20I'm%20Harish%20R%20%F0%9F%91%8B&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Cybersecurity%20Engineer%20|%20Pentester%20|%20Digital%20Forensics&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050A0F,25:0F2027,50:173B4D,75:1C5668,100:2C5364&height=240&section=header&text=Hi%20There,%20I'm%20Harish%20R%20%F0%9F%91%8B&fontSize=40&fontColor=00E5FF&animation=fadeIn&fontAlignY=35&desc=Cybersecurity%20Engineer%20%7C%20Pentester%20%7C%20Digital%20Forensics&descAlignY=57&descSize=18&descColor=FFFFFF" width="100%"/>
+
+<br>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=2C9AFF&center=true&vCenter=true&width=900&lines=Cybersecurity+%26+Network+Security+Enthusiast;Penetration+Testing+%7C+Vulnerability+Assessment;Digital+Forensics+%7C+Secure+Systems;Built+Torrenter-X+%7C+Nexcryptix-RT+%7C+Cyber-Net-Secx;Always+Learning%2C+Always+Securing+%F0%9F%94%90" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=2800&pause=900&color=00E5FF&center=true&vCenter=true&width=1000&lines=%3E_%20Cybersecurity+%26+Network+Security+Enthusiast;%3E_%20Penetration+Testing+%7C+Vulnerability+Assessment;%3E_%20Digital+Forensics+%7C+Secure+Systems;%3E_%20Built+Vaultium+%7C+Torrenter-X+%7C+USB+VaultArmor-RT;%3E_%20Built+Cyber-Net-SecX+%7C+An+Automated+Security+Assessment+Tool;%3E_%20Always+Learning%2C+Always+Securing+%F0%9F%94%90" alt="Typing SVG" />
 </a>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/STATUS-OPEN%20TO%20WORK-00E5FF?style=for-the-badge&labelColor=050A0F" />
+<img src="https://img.shields.io/badge/FOCUS-CYBERSECURITY-00FF88?style=for-the-badge&labelColor=050A0F" />
+<img src="https://img.shields.io/badge/ROLE-SECURITY%20ENGINEER-9B59FF?style=for-the-badge&labelColor=050A0F" />
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=R-Harish-15&label=PROFILE%20VIEWS&color=00E5FF&style=for-the-badge" />
+<img src="https://img.shields.io/badge/CGPA-9.133-00FF88?style=for-the-badge&labelColor=050A0F" />
+<img src="https://img.shields.io/badge/TRYHACKME-TOP%2020%25-FF3366?style=for-the-badge&labelColor=050A0F" />
 
 </div>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=R-Harish-15&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views"/>
-  <img src="https://img.shields.io/badge/CGPA-9.133-brightgreen?style=flat-square" />
-  <img src="https://img.shields.io/badge/Status-Open%20to%20Work-success?style=flat-square" />
-</p>
+---
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2200&pause=700&color=00FF88&center=true&vCenter=true&width=900&lines=%5B+SYSTEM+ONLINE+%5D;%5B+SECURITY+MODE%3A+ACTIVE+%5D;%5B+THREAT+MONITORING%3A+ENABLED+%5D;%5B+DEFENSE+%7C+RESEARCH+%7C+AUTOMATION+%5D" />
+
+</div>
 
 ---
 
-### 👨‍💻 About Me
+## 👨‍💻 About Me
 
 ```yaml
-name: "Harish R"
-role: "Cybersecurity Engineering Student"
-education: "B.E. CSE (Cybersecurity Engineering) @ J.J College of Engineering & Technology, Trichy"
-graduation_year: 2026
-cgpa: 9.133
-location: "Trichy, Tamil Nadu, India"
-current_focus:
-  - "Penetration Testing & Vulnerability Assessment"
-  - "Digital Forensics & Incident Response"
-  - "Zero Trust Security Architecture"
-languages_spoken: ["English", "Tamil (Native)"]
-fun_fact: "Top 20% global rank on TryHackMe 🏆"
-```
+Name : Harish R
+Role : Cybersecurity Engineer
 
-- 🔐 Currently exploring **Personal System's Security** and real-time threat monitoring
-- 🧪 Previously, Built **Torrenter-X**, a torrent file downloader **|** **Nexcryptix-RT**, a host-based USB security & forensic monitoring framework
-- 📝 Published research on network vulnerability assessment & exploit intelligence
-- 🏁 CTF participant | TryHackMe top 20% globally
-- 📫 Reach me at **harishr15042004@gmail.com**
+Education : B.E. CSE (Cybersecurity Engineering)
+College : J.J. College of Engineering & Technology, Trichy
+Graduation_Year : 2026
+CGPA : 9.133
+Location : Trichy, Tamil Nadu, India
+
+Current_Focus :
+  - Penetration Testing & Vulnerability Assessment
+  - Digital Forensics & Incident Response
+  - Network Security
+  - Real-Time Threat Monitoring
+  - Zero Trust Security Architecture
+
+Languages :
+  - English
+  - Tamil
+
+Achievement:
+  - Top 20% Global Rank on TryHackMe
+
+Mission:
+  - Identify
+  - Analyze
+  - Defend
+  - Secure
+````
+
+### 🔐 Cybersecurity Profile
+
+* 🔎 Exploring **Penetration Testing & Vulnerability Assessment**
+* 🛡️ Building **Host-Based Security & Monitoring Systems**
+* 🧪 Working with **Digital Forensics & Incident Response**
+* 🌐 Exploring **Network & Application Security**
+* 🔒 Learning **Zero Trust Security Architecture**
+* ⚙️ Building practical **Cybersecurity Tools & Automation**
+* 🧠 Continuously improving through **CTFs, labs & security research**
+* 📝 Published research on **Network Vulnerability Assessment & Exploit Intelligence**
+
+<br>
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2000&pause=800&color=00FF88&center=true&vCenter=true&width=750&lines=%3E+whoami;%3E+Cybersecurity+Engineer;%3E+Security+Researcher;%3E+Pentesting+Enthusiast;%3E+Digital+Forensics+Explorer;%3E+Security+Automation+Builder" />
+
+</div>
 
 ---
 
-### 🛠️ Tech Stack & Tools
+# 🛠️ Tech Stack & Security Arsenal
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cs,linux,windows&perline=8" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Nmap-000000?style=for-the-badge&logo=nmap&logoColor=white" />
-  <img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" />
-  <img src="https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white" />
-  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
-</p>
+### 💻 Programming & Platforms
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Nessus-00B4EF?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Maltego-FF3E3E?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/FOCA-333333?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/SQLmap-D22128?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Hydra-2B2B2B?style=for-the-badge" />
-</p>
+<img src="https://skillicons.dev/icons?i=python,cs,java,linux,windows,android&perline=8" />
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Autopsy-2C3E50?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/FTK%20Imager-4B4B4B?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/ADB-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
-</p>
+<br><br>
+
+### 🕵️ Offensive Security
+
+<img src="https://img.shields.io/badge/Nmap-000000?style=for-the-badge&logo=nmap&logoColor=00E5FF" />
+<img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" />
+<img src="https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white" />
+<img src="https://img.shields.io/badge/Nessus-00B4EF?style=for-the-badge" />
+<img src="https://img.shields.io/badge/SQLmap-D22128?style=for-the-badge" />
+
+<br>
+
+<img src="https://img.shields.io/badge/Hydra-2B2B2B?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Maltego-FF3E3E?style=for-the-badge" />
+<img src="https://img.shields.io/badge/FOCA-333333?style=for-the-badge" />
+<img src="https://img.shields.io/badge/John%20the%20Ripper-000000?style=for-the-badge" />
+
+<br><br>
+
+### 🔬 Digital Forensics
+
+<img src="https://img.shields.io/badge/Autopsy-2C3E50?style=for-the-badge" />
+<img src="https://img.shields.io/badge/FTK%20Imager-4B4B4B?style=for-the-badge" />
+<img src="https://img.shields.io/badge/ADB-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
+
+<br><br>
+
+### 🌐 Networking & Security
+
+<img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
+<img src="https://img.shields.io/badge/Network%20Security-00E5FF?style=for-the-badge" />
+<img src="https://img.shields.io/badge/VAPT-9B59FF?style=for-the-badge" />
+
+</div>
 
 ---
 
-### 🚀 Featured Projects
+# 🚀 Featured Projects
+
+<div align="center">
 
 <table>
 <tr>
+
 <td width="50%" valign="top">
 
-**🔒 Nexcryptix-RT**
-Host-Based USB Data Security & Forensic Monitoring Framework
-- Real-time AES-based encryption (Fernet)
-- Ransomware-aware File Integrity Monitoring
-- Forensic logging for device & file-level tracking
-- Policy-based execution control
+<h3 align="center"> Vaultium</h3>
+
+<p align="center">
+<img src="https://img.shields.io/badge/ANDROID%20SECURITY-00E5FF?style=for-the-badge&labelColor=050A0F"/>
+</p>
+
+**Secure Android Vault & Privacy Protection System**
+
+* 🔒 Secure encrypted data storage
+* 🔑 PIN-based authentication & access control
+* 🛡️ Privacy-focused Android security
+* ☁️ Google Drive backup & synchronization
+* 🔄 Secure data restore & recovery
+* 📱 Android device security & vault management
+* 🚨 Protection against unauthorized access
+* ⚙️ Secure local data storage & management
 
 </td>
+
+
 <td width="50%" valign="top">
 
-**🛡️ Cyber-Net-Secx**
-Automated Cybersecurity Assessment System
-- Recon, vulnerability detection & exploit feasibility
-- Risk visualization with structured PDF reports
-- Published in IJSART, March 2026
+<h3 align="center">Nexcryptix-RT</h3>
+
+<p align="center">
+<img src="https://img.shields.io/badge/HOST%20SECURITY-00E5FF?style=for-the-badge&labelColor=050A0F"/>
+</p>
+
+**Host-Based USB Data Security & Forensic Monitoring Framework**
+
+* 🔒 Real-time encryption using Fernet
+* 🛡️ Ransomware-aware File Integrity Monitoring
+* 🔍 Device & file-level forensic tracking
+* 🚨 Suspicious behavior detection
+* ⚙️ Policy-based execution control
+* 📊 Risk scoring & security dashboard
+* 💾 SQLite-based forensic logging
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-**⬇️ Torrenter-X**
-Python-Based BitTorrent Download Manager
-- Built with Python, libtorrent & CustomTkinter
-- Pause/resume, peer stats, ETA tracking
-- Packaged as standalone Windows executable
+<h3 align="center">Torrenter-X</h3>
+
+<p align="center">
+<img src="https://img.shields.io/badge/PYTHON%20PROJECT-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+</p>
+
+**Python-Based BitTorrent Download Manager**
+
+* ⚡ Real-time download progress
+* 📡 Peer & speed monitoring
+* ⏯️ Pause / Resume / Stop
+* ⏱️ ETA tracking
+* 🎨 CustomTkinter interface
+* 🖥️ Standalone Windows executable
+* 🧩 Built with Python & libtorrent
+
+</td>
+
+
+<td width="50%" valign="top">
+
+<h3 align="center">Cyber-Net-SecX</h3>
+
+<p align="center">
+<img src="https://img.shields.io/badge/AUTOMATED%20PENTEST-FF3366?style=for-the-badge&labelColor=050A0F"/>
+</p>
+
+**Automated Cybersecurity Assessment & Exploit Intelligence Framework**
+
+* 🔎 Automated Nmap reconnaissance
+* 🧠 CVE intelligence extraction
+* 💥 Metasploit exploit validation
+* 📊 CVSS-based risk calculation
+* 📄 Automated PDF reporting
+* 🔗 Exploit intelligence integration
+* 📝 Published in IJSART — March 2026
 
 </td>
 
 </tr>
 </table>
 
----
-
-### 🏆 Achievements
-
-- 🥇 **1st Place** — Quiz, REACH'25 (COE Guindy & Anna University, at JJCET)
-- 🎯 **144th of 556** — CTF Hackathon, HACKQUEST 2K25
-- 🔥 **Top 20% Global Rank** on TryHackMe — 31+ labs completed
+</div>
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats-pi-six-15.vercel.app/api?username=R-Harish-15&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats-pi-six-15.vercel.app/api/top-langs/?username=R-Harish-15&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=R-Harish-15&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=R-Harish-15&theme=tokyo-night&hide_border=true" width="100%"/>
-</p>
-
----
-
-### 🌐 Connect With Me
-
-<p align="center">
-  <a href="mailto:harishr15042004@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://github.com/R-Harish-15"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/r-harish15/"><img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](#)"/></a>
- 
-</p>
+# 🏆 Achievements
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=100&section=footer"/>
+<img src="https://img.shields.io/badge/🥇%201st%20Place-REACH%2725-FFD700?style=for-the-badge&labelColor=050A0F" />
+
+<img src="https://img.shields.io/badge/🎯%20144%2F556-HACKQUEST%202K25-00E5FF?style=for-the-badge&labelColor=050A0F" />
+
+<img src="https://img.shields.io/badge/🔥%20TOP%2020%25-TRYHACKME-FF3366?style=for-the-badge&labelColor=050A0F" />
 
 </div>
+
+<br>
+
+* 🥇 **1st Place** — Quiz, REACH'25 — COE Guindy & Anna University at JJCET
+* 🎯 **144th / 556** — CTF Hackathon, HACKQUEST 2K25
+* 🔥 **Top 20% Global Rank** — TryHackMe
+* 🧪 **31+ Security Labs Completed**
+
+---
+
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats-pi-six-15.vercel.app/api?username=R-Harish-15&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github" />
+
+<img height="180" src="https://github-readme-stats-pi-six-15.vercel.app/api/top-langs/?username=R-Harish-15&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=R-Harish-15&theme=tokyonight&hide_border=true&background=0D1117&stroke=00E5FF&ring=00E5FF&fire=FF3366&currStreakLabel=00E5FF" />
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=R-Harish-15&theme=tokyo-night&hide_border=true&area=true&custom_title=Harish%20R%20-%20Contribution%20Activity" width="100%"/>
+
+</div>
+
+---
+
+# 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=R-Harish-15&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7" width="100%" />
+
+</div>
+
+---
+
+# 🐍 Contribution Activity
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake Animation" width="100%" />
+
+</div>
+
+---
+
+# ⚡ Cybersecurity Mission
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2500&pause=700&color=00FF88&center=true&vCenter=true&width=950&lines=%5B+01+%5D+Reconnaissance+%E2%86%92+Identify+Attack+Surface;%5B+02+%5D+Assessment+%E2%86%92+Discover+Vulnerabilities;%5B+03+%5D+Analysis+%E2%86%92+Calculate+Risk;%5B+04+%5D+Validation+%E2%86%92+Verify+Security+Impact;%5B+05+%5D+Defense+%E2%86%92+Detect+%26+Mitigate;%5B+06+%5D+Automation+%E2%86%92+Build+Smarter+Security+Tools" />
+
+</div>
+
+---
+
+# 📡 Current Focus
+
+<div align="center">
+
+|     🔐 Security     |       🧪 Research      |    ⚙️ Development   |
+| :-----------------: | :--------------------: | :-----------------: |
+| Penetration Testing | Vulnerability Research |        Python       |
+|   Network Security  |    Digital Forensics   | Security Automation |
+|         VAPT        |    CVE Intelligence    |   Windows Security  |
+|      Zero Trust     |    Incident Response   |   Android Security  |
+
+</div>
+
+---
+
+# 🌐 Connect With Me
+
+<div align="center">
+
+<a href="mailto:harishr15042004@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<a href="https://github.com/R-Harish-15">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<a href="https://www.linkedin.com/in/r-harish15/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<br><br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&width=750&lines=Let's+Build+%7C+Break+%7C+Secure+%7C+Repeat+%F0%9F%94%90;Security+is+not+a+feature.+It's+a+mindset.;Think+Like+an+Attacker.+Defend+Like+an+Engineer." />
+
+</div>
+
+---
+
+<div align="center">
+
+### 🔐 `Security is a continuous process, not a final state.`
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,25:173B4D,50:0F2027,100:050A0F&height=130&section=footer&animation=twinkling" width="100%"/>
+
+</div>
+
