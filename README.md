@@ -281,13 +281,13 @@ Mission:
 
 # 🏆 GitHub Project Repos :
 
-<a href="https://github.com/R-Harish-15/Vaultium">
+<a href="https://github.com/R-Harish-15/Vaultium-App">
   
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=900&color=ffb00f&Left=true&vLeft=true&width=800&lines=%3E_%20Vaultium" alt="Vaultium Typing Animation" />
 </a>
 
    <p align="center">
-     <a href="https://github.com/R-Harish-15/Vaultium">
+     <a href="https://github.com/R-Harish-15/Vaultium-App">
      <img src="https://raw.githubusercontent.com/R-Harish-15/Vaultium-App/main/assets/vaultium.png">
      </a>
    </p>
