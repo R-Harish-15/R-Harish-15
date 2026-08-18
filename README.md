@@ -287,7 +287,9 @@ Mission:
 </a>
 
    <p align="center">
+     <a href="https://github.com/R-Harish-15/Vaultium">
      <img src="https://raw.githubusercontent.com/R-Harish-15/Vaultium-App/main/assets/vaultium.png">
+     </a>
    </p>
 
 <a href="https://github.com/R-Harish-15/Torrenter-X-by-Velthrix-Nova">
