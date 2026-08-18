@@ -281,7 +281,8 @@ Mission:
 
 # 🏆 GitHub Project Repos :
 
-<a href="https://git.io/typing-svg">
+<a href="https://github.com/R-Harish-15/Vaultium">
+  
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=900&color=ffb00f&Left=true&vLeft=true&width=800&lines=%3E_%20Vaultium" alt="Vaultium Typing Animation" />
 </a>
 
@@ -289,7 +290,7 @@ Mission:
      <img src="https://raw.githubusercontent.com/R-Harish-15/Vaultium-App/main/assets/vaultium.png">
    </p>
 
-<a href="https://git.io/typing-svg">
+<a href="https://github.com/R-Harish-15/Torrenter-X-by-Velthrix-Nova">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=900&color=e628fe&Left=true&vLeft=true&width=800&lines=%3E_%20Torrenter-X" alt="Torrenter-X Typing Animation" />
 </a>
 
@@ -297,7 +298,7 @@ Mission:
      <img src="https://raw.githubusercontent.com/R-Harish-15/Torrenter-X-by-Velthrix-Nova/main/torrenter_x_banner.png">
    </p>
 
-<a href="https://git.io/typing-svg">
+<a href="https://github.com/R-Harish-15/Nexcryptix-RT">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=900&color=fead83&Left=true&vLeft=true&width=800&lines=%3E_%20Nexcryptix-RT" alt="Nexcryptix-RT Typing Animation" />
 </a>
 
@@ -305,7 +306,7 @@ Mission:
      <img src="https://raw.githubusercontent.com/R-Harish-15/Nexcryptix-RT/main/assests/github%20nexcrptix.png">
    </p>
 
-<a href="https://git.io/typing-svg">
+<a href="https://github.com/R-Harish-15/Cyber-Net-SecX-Scanner">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=900&color=0880ff&Left=true&vLeft=true&width=800&lines=%3E_%20Cyber-Net-SecX" alt="Cyber-Net-SecX Typing Animation" />
 </a>
 
