@@ -1,7 +1,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050A0F,25:0F2027,50:173B4D,75:1C5668,100:2C5364&height=240&section=header&text=Hi%20There,%20I'm%20Harish%20R%20%F0%9F%91%8B&fontSize=40&fontColor=00E5FF&animation=fadeIn&fontAlignY=35&desc=Cybersecurity%20Engineer%20%7C%20Pentester%20%7C%20Digital%20Forensics&descAlignY=57&descSize=18&descColor=FFFFFF" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050A0F,25:0F2027,50:173B4D,75:1C5668,100:2C5364&height=240&section=header&text=Hi%20There,%20I'm%20Harish%20R%20%F0%9F%91%8B&fontSize=40&fontColor=fefee2&animation=fadeIn&fontAlignY=35&desc=Cybersecurity%20Engineer%20%7C%20Pentester%20%7C%20Digital%20Forensics&descAlignY=57&descSize=18&descColor=FFFFFF" width="100%"/>
 
 <br>
 
@@ -166,7 +166,7 @@ Mission:
 <h3 align="center">Nexcryptix-RT</h3>
 
 <p align="center">
-<img src="https://img.shields.io/badge/HOST%20SECURITY-00E5FF?style=for-the-badge&labelColor=050A0F"/>
+<img src="https://img.shields.io/badge/HOST/ENDPOINT%20SECURITY-00E5FF?style=for-the-badge&labelColor=050A0F"/>
 </p>
 
 **Host-Based USB Data Security & Forensic Monitoring Framework**
@@ -279,14 +279,39 @@ Mission:
 
 ---
 
-# 🏆 GitHub Trophies
+# 🏆 GitHub Project Repos :
 
-<div align="center">
+<a href="https://git.io/typing-svg">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=900&color=ffb00f&Left=true&vLeft=true&width=800&lines=%3E_%20Vaultium" alt="Vaultium Typing Animation" />
+</a>
 
-<img src="https://github-profile-trophy.vercel.app/?username=R-Harish-15&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7" width="100%" />
+   <p align="center">
+     <img src="https://raw.githubusercontent.com/R-Harish-15/Vaultium-App/main/assets/vaultium.png">
+   </p>
 
-</div>
+<a href="https://git.io/typing-svg">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=900&color=e628fe&Left=true&vLeft=true&width=800&lines=%3E_%20Torrenter-X" alt="Torrenter-X Typing Animation" />
+</a>
 
+   <p align="center">
+     <img src="https://raw.githubusercontent.com/R-Harish-15/Torrenter-X-by-Velthrix-Nova/main/torrenter_x_banner.png">
+   </p>
+
+<a href="https://git.io/typing-svg">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=900&color=fead83&Left=true&vLeft=true&width=800&lines=%3E_%20Nexcryptix-RT" alt="Nexcryptix-RT Typing Animation" />
+</a>
+
+   <p align="center">
+     <img src="https://raw.githubusercontent.com/R-Harish-15/Nexcryptix-RT/main/assests/github%20nexcrptix.png">
+   </p>
+
+<a href="https://git.io/typing-svg">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=900&color=0880ff&Left=true&vLeft=true&width=800&lines=%3E_%20Cyber-Net-SecX" alt="Cyber-Net-SecX Typing Animation" />
+</a>
+
+   <p align="center">
+     <img src="https://raw.githubusercontent.com/R-Harish-15/Cyber-Net-SecX-Scanner/main/auto_pentest_scanner/static/assets/logo_header.png">
+   </p>
 ---
 
 # 🐍 Contribution Activity
