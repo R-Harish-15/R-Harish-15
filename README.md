@@ -139,87 +139,175 @@ Mission:
 <table>
 <tr>
 
+<!-- ═════════════════════════════════════════════════════════════ -->
+<!--                         VAULTIUM                             -->
+<!-- ═════════════════════════════════════════════════════════════ -->
+
 <td width="50%" valign="top">
 
-<h3 align="center"> Vaultium</h3>
+<div align="center">
 
-<p align="center">
-<img src="https://img.shields.io/badge/ANDROID%20SECURITY-00E5FF?style=for-the-badge&labelColor=050A0F"/>
+<a href="https://github.com/R-Harish-15/Vaultium-App">
+
+<img src="https://raw.githubusercontent.com/R-Harish-15/Vaultium-App/main/assets/vaultium.png"
+     width="500"
+     alt="Vaultium"/>
+
+</a>
+<a href="https://git.io/typing-svg">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=2600&pause=800&color=ffb00f&center=true&vCenter=true&width=500&lines=%3E_%20Vaultium;%3E_%20Secure+Android+Vault;%3E_%20Privacy+%26+Data+Protection;%3E_%20Google+Drive+Backup+%26+Sync" alt="Vaultium Animation"/>
+</a>
+<img src="https://img.shields.io/badge/ANDROID%20SECURITY-ffb00f?style=for-the-badge&labelColor=050A0F"/>
+
+<strong>Secure Android Vault & Privacy Protection System</strong>
+
+<p align="left">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🔒 Secure encrypted data storage  <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🔑 PIN-based authentication & access control <br>  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🛡️ Privacy-focused Android security  <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;☁️ Google Drive backup & synchronization <br>  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🔄 Secure data restore & recovery  <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;📱 Android device security & vault management  <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🚨 Protection against unauthorized access  <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⚙️ Secure local data storage & management <br>
 </p>
 
-**Secure Android Vault & Privacy Protection System**
+<a href="https://github.com/R-Harish-15/Vaultium-App">
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-0b0a0b?style=for-the-badge&logo=github&logoColor=white&labelColor=050A0F"/>
+</a>
 
-* 🔒 Secure encrypted data storage
-* 🔑 PIN-based authentication & access control
-* 🛡️ Privacy-focused Android security
-* ☁️ Google Drive backup & synchronization
-* 🔄 Secure data restore & recovery
-* 📱 Android device security & vault management
-* 🚨 Protection against unauthorized access
-* ⚙️ Secure local data storage & management
+</div>
 
 </td>
 
 
+<!-- ═════════════════════════════════════════════════════════════ -->
+<!--                       NEXCRYPTIX                             -->
+<!-- ═════════════════════════════════════════════════════════════ -->
+
 <td width="50%" valign="top">
 
-<h3 align="center">Nexcryptix-RT</h3>
+<div align="center">
 
-<p align="center">
-<img src="https://img.shields.io/badge/HOST/ENDPOINT%20SECURITY-00E5FF?style=for-the-badge&labelColor=050A0F"/>
+<a href="https://github.com/R-Harish-15/Nexcryptix-RT">
+
+<img src="https://raw.githubusercontent.com/R-Harish-15/Nexcryptix-RT/main/assests/github%20nexcrptix.png"
+     width="500"
+     alt="Nexcryptix-RT"/>
+
+</a>
+
+<a href="https://git.io/typing-svg">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=2600&pause=800&color=e628fe&center=true&vCenter=true&width=500&lines=%3E_%20Nexcryptix-RT;%3E_%20Windows+USB+Security;%3E_%20Real-Time+File+Integrity+Monitoring;%3E_%20Forensic+Monitoring+%26+Threat+Detection" alt="Nexcryptix Animation"/>
+</a>
+<img src="https://img.shields.io/badge/HOST%2FENDPOINT%20SECURITY-e628fe?style=for-the-badge&labelColor=050A0F"/>
+
+<strong>Host-Based USB Data Security & Forensic Monitoring Framework</strong>
+<p align="left">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🔒 Real-time encryption using Fernet             <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🛡️ Ransomware-aware File Integrity Monitoring          <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🔍 Device & file-level forensic tracking            <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🚨 Suspicious behavior detection                      <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⚙️ Policy-based execution control                    <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;📊 Risk scoring & security dashboard             <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;💾 SQLite-based forensic logging                 <br> 
+  <br>
 </p>
+<a href="https://github.com/R-Harish-15/Nexcryptix-RT">
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-0b0a0b?style=for-the-badge&logo=github&logoColor=white&labelColor=050A0F"/>
+</a>
 
-**Host-Based USB Data Security & Forensic Monitoring Framework**
-
-* 🔒 Real-time encryption using Fernet
-* 🛡️ Ransomware-aware File Integrity Monitoring
-* 🔍 Device & file-level forensic tracking
-* 🚨 Suspicious behavior detection
-* ⚙️ Policy-based execution control
-* 📊 Risk scoring & security dashboard
-* 💾 SQLite-based forensic logging
+</div>
 
 </td>
+
 </tr>
+
 <tr>
+
+<!-- ═════════════════════════════════════════════════════════════ -->
+<!--                       TORRENTER-X                            -->
+<!-- ═════════════════════════════════════════════════════════════ -->
+
 <td width="50%" valign="top">
 
-<h3 align="center">Torrenter-X</h3>
+<div align="center">
 
-<p align="center">
-<img src="https://img.shields.io/badge/PYTHON%20PROJECT-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<a href="https://github.com/R-Harish-15/Torrenter-X-by-Velthrix-Nova">
+
+<img src="https://raw.githubusercontent.com/R-Harish-15/Torrenter-X-by-Velthrix-Nova/main/torrenter_x_banner.png"
+     width="500" height="125"
+     alt="Torrenter-X"/>
+
+</a>
+
+<a href="https://git.io/typing-svg">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=2600&pause=800&color=e628fe&center=true&vCenter=true&width=500&lines=%3E_%20Torrenter-X;%3E_%20Python+BitTorrent+Download+Manager;%3E_%20Real-Time+Download+%26+Peer+Monitoring;%3E_%20Python+%7C+libtorrent+%7C+CustomTkinter" alt="Torrenter-X Animation"/>
+</a>
+
+<img src="https://img.shields.io/badge/PYTHON%20PROJECT-e628fe?style=for-the-badge&logo=python&logoColor=white"/>
+
+<strong>Python-Based BitTorrent Download Manager</strong>
+
+<p align="left">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⚡ Real-time download progress  <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;📡 Peer & speed monitoring   <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⏯️ Pause / Resume / Stop <br>  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⏱️ ETA tracking  <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🎨 CustomTkinter interface  <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🖥️ Standalone Windows executable  <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🧩 Built with Python & libtorrent <br>
+<br>
+
 </p>
+<a href="https://github.com/R-Harish-15/Torrenter-X-by-Velthrix-Nova">
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-0b0a0b?style=for-the-badge&logo=github&logoColor=white&labelColor=050A0F"/>
+</a>
 
-**Python-Based BitTorrent Download Manager**
-
-* ⚡ Real-time download progress
-* 📡 Peer & speed monitoring
-* ⏯️ Pause / Resume / Stop
-* ⏱️ ETA tracking
-* 🎨 CustomTkinter interface
-* 🖥️ Standalone Windows executable
-* 🧩 Built with Python & libtorrent
+</div>
 
 </td>
 
 
+<!-- ═════════════════════════════════════════════════════════════ -->
+<!--                     CYBER-NET-SECX                           -->
+<!-- ═════════════════════════════════════════════════════════════ -->
+
 <td width="50%" valign="top">
 
-<h3 align="center">Cyber-Net-SecX</h3>
+<div align="center">
 
-<p align="center">
-<img src="https://img.shields.io/badge/AUTOMATED%20PENTEST-FF3366?style=for-the-badge&labelColor=050A0F"/>
+<a href="https://github.com/R-Harish-15/Cyber-Net-SecX-Scanner">
+
+<img src="https://raw.githubusercontent.com/R-Harish-15/Cyber-Net-SecX-Scanner/main/auto_pentest_scanner/static/assets/logo_header.png"
+     width="500"
+     alt="Cyber-Net-SecX"/>
+
+</a>
+
+<a href="https://git.io/typing-svg">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=2600&pause=800&color=0880ff&center=true&vCenter=true&width=500&lines=%3E_%20Cyber-Net-SecX;%3E_%20Automated+Penetration+Testing;%3E_%20CVE+%7C+Metasploit+%7C+CVSS;%3E_%20Network+Vulnerability+Assessment" alt="Cyber-Net-SecX Animation"/>
+</a>
+
+<img src="https://img.shields.io/badge/AUTOMATED%20PENTEST-0880ff?style=for-the-badge&labelColor=050A0F"/>
+
+<strong>Automated Cybersecurity Assessment & Exploit Intelligence Framework</strong>
+
+<p align="left">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🔎 Automated Nmap reconnaissance  <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🧠 CVE intelligence extraction  <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;💥 Metasploit exploit validation  <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;📊 CVSS-based risk calculation  <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;📄 Automated PDF reporting  <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🔗 Exploit intelligence integration <br> 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;📝 Published in IJSART — March 2026 <br>
+
 </p>
+<a href="https://github.com/R-Harish-15/Cyber-Net-SecX-Scanner">
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-0b0a0b?style=for-the-badge&logo=github&logoColor=white&labelColor=050A0F"/>
+</a>
 
-**Automated Cybersecurity Assessment & Exploit Intelligence Framework**
-
-* 🔎 Automated Nmap reconnaissance
-* 🧠 CVE intelligence extraction
-* 💥 Metasploit exploit validation
-* 📊 CVSS-based risk calculation
-* 📄 Automated PDF reporting
-* 🔗 Exploit intelligence integration
-* 📝 Published in IJSART — March 2026
+</div>
 
 </td>
 
@@ -228,7 +316,29 @@ Mission:
 
 </div>
 
----
+<br>
+
+<!-- ═════════════════════════════════════════════════════════════ -->
+<!--                    PROJECT ROTATION                         -->
+<!-- ═════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+<a href="https://git.io/typing-svg">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=17&duration=1800&pause=600&color=00E5FF&center=true&vCenter=true&width=900&lines=%5B+01+%5D+VAULTIUM+%E2%86%92+ANDROID+SECURITY;%5B+02+%5D+TORRENTER-X+%E2%86%92+PYTHON+DOWNLOAD+ENGINE;%5B+03+%5D+NEXCRYPTIX-RT+%E2%86%92+WINDOWS+USB+SECURITY;%5B+04+%5D+CYBER-NET-SECX+%E2%86%92+AUTOMATED+PENTESTING;%5B+SYSTEM+STATUS%3A+PROJECTS+ACTIVE+%5D" alt="Project Rotation"/>
+</a>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/4%20PROJECTS-ONLINE-00E5FF?style=for-the-badge&labelColor=050A0F"/>
+<img src="https://img.shields.io/badge/SECURITY%20%2B%20DEVELOPMENT-ACTIVE-00FF88?style=for-the-badge&labelColor=050A0F"/>
+<img src="https://img.shields.io/badge/RESEARCH%20%2B%20AUTOMATION-ENABLED-9B59FF?style=for-the-badge&labelColor=050A0F"/>
+
+</div>---
 
 # 🏆 Achievements
 
