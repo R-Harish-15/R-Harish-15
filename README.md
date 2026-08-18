@@ -295,7 +295,9 @@ Mission:
 </a>
 
    <p align="center">
+     <a href="https://github.com/R-Harish-15/Torrenter-X-by-Velthrix-Nova">
      <img src="https://raw.githubusercontent.com/R-Harish-15/Torrenter-X-by-Velthrix-Nova/main/torrenter_x_banner.png">
+     </a>
    </p>
 
 <a href="https://github.com/R-Harish-15/Nexcryptix-RT">
@@ -303,7 +305,9 @@ Mission:
 </a>
 
    <p align="center">
+     <a href="https://github.com/R-Harish-15/Nexcryptix-RT">
      <img src="https://raw.githubusercontent.com/R-Harish-15/Nexcryptix-RT/main/assests/github%20nexcrptix.png">
+     </a>
    </p>
 
 <a href="https://github.com/R-Harish-15/Cyber-Net-SecX-Scanner">
@@ -311,7 +315,9 @@ Mission:
 </a>
 
    <p align="center">
+     <a href="https://github.com/R-Harish-15/Cyber-Net-SecX-Scanner">
      <img src="https://raw.githubusercontent.com/R-Harish-15/Cyber-Net-SecX-Scanner/main/auto_pentest_scanner/static/assets/logo_header.png">
+     </a>
    </p>
 ---
 
